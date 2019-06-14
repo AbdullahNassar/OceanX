@@ -1,0 +1,1 @@
+<a class="message" href="{{route('admin.message')}}" style="color: #5b9bd1;">You've got a new message</a>
